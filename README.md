@@ -295,30 +295,6 @@ GEMINI_MODEL=gemini-2.5-flash
 
 ---
 
-# Screenshots
-
-### Login Page
-
-_Add Screenshot Here_
-
-### Dashboard
-
-_Add Screenshot Here_
-
-### File Upload
-
-_Add Screenshot Here_
-
-### AI Analysis Chat
-
-_Add Screenshot Here_
-
-### Generated Report
-
-_Add Screenshot Here_
-
----
-
 # Future Improvements
 
 - PDF Report Export
